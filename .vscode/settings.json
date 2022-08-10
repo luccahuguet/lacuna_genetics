@@ -1,0 +1,11 @@
+{
+  "omnisharp.organizeImportsOnFormat": true,
+  "omnisharp.enableAsyncCompletion": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "evenBetterToml.formatter.allowedBlankLines": 1,
+  "indentRainbow.excludedLanguages": [
+    "csharp",
+    "plaintext"
+  ]
+}

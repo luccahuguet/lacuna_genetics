@@ -1,0 +1,15 @@
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\bin\Debug\net6.0\new_app.exe
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\bin\Debug\net6.0\new_app.deps.json
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\bin\Debug\net6.0\new_app.runtimeconfig.json
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\bin\Debug\net6.0\new_app.dll
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\bin\Debug\net6.0\new_app.pdb
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.csproj.AssemblyReference.cache
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.AssemblyInfoInputs.cache
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.AssemblyInfo.cs
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.csproj.CoreCompileInputs.cache
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.dll
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\refint\new_app.dll
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.pdb
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\new_app.genruntimeconfig.cache
+C:\Users\LUCCA\Desktop\pjs\csharp\new_app\obj\Debug\net6.0\ref\new_app.dll
